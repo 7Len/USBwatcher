@@ -1,7 +1,5 @@
 '''
 Name:U盘窥视者
-Coder:Key
-
 '''
 
 
@@ -198,8 +196,6 @@ def readconfig():
     '''
     
 
-print("免责声明：本软件仅供学习交流使用，严禁用于非法用途。")
-print("www.52pojie.cn by 吾爱破解 Key")
 readconfig()
 while (1):
     
